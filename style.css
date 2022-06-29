@@ -7,3 +7,15 @@
 .price{
     color: #FF5498;
 }
+.catagories img{
+    width: 100px;
+}
+.catagory-1{
+    background-image: linear-gradient(to right, rgba(255, 166, 0, 0.928), rgb(247, 189, 81));
+}
+.catagory-2{
+    background-image: linear-gradient(to right, rgb(69, 172, 6), rgb(88, 250, 80));
+}
+.catagory-3{
+    background-image: linear-gradient(to right, rgb(49, 102, 217), rgb(125, 160, 234));
+}
